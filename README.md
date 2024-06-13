@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 👋
 
 <!--
 **minseok4266/minseok4266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📫 연락처
+- 이메일: alsl4266@naver.com
+
